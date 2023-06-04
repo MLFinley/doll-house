@@ -1,6 +1,6 @@
 <nav style = "background-color: #f1f1f1; padding: 1rem; display: flex; justify-content: space-around; align-items: center; align: center;">
     <a href="/" style="text-decoration: none; color: black; font-weight: bold; text-shadow: 0;">Home</a>
-    <a href="/socials" style="text-decoration: none; color: black; font-weight: bold; text-shadow: 0;">Socials</a>
+    <a href="/socials" style="text-decoration: none; color: black; font-weight: bold; text-shadow: 0;">Social</a>
 </nav>
 <!-- 500px of black that fades to transparent -->
 <img src="/MollyNew.png" alt="Svelte logo" style = "position: fixed; top: 0; height:100%; left: 100%; z-index: -2; transform: translate(-100%, 0);">
