@@ -1,12 +1,12 @@
 @font-face {
-    font-family: 'Dollie Script'; /*a name to be used later*/
-    src: url('/dolliescript.ttf'); /*URL to font*/
+    font-family: 'BabyDoll'; /*a name to be used later*/
+    src: url('/BabyDoll.ttf'); /*URL to font*/
 }
 
 body {
     background-color: #000000;
     color: #ffffff;
-    font-family: 'Dollie Script';
+    font-family: 'BabyDoll';
     /* align text right */
     text-align: center;
     /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black,
