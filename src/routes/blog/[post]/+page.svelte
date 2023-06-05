@@ -11,7 +11,7 @@
     /**
      * @type {any}
      */
-    let html;
+    let html = "";
 
     onMount(async () => {
         const response = await fetch(`/${data.post}.md`);
