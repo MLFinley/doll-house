@@ -8,6 +8,6 @@
 <!-- <div style="background: rgba(0,0,0,0.8); width: 500px; height: 100%; position: fixed; top: 0; left: 0; z-index: -1;"></div> -->
 
 <!-- width should be the total width - 700px, or 500px if 500px is bigger -->
-<div style="width: calc(max(min(500px, 100%), 100% - 300px));">
+<div style="width: calc(max(min(500px, 100%), 100% - 300px)); height: 100vh;">
 <slot></slot>
 </div>
