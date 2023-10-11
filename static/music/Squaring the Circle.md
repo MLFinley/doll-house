@@ -1,0 +1,5 @@
+<!-- quote -->
+*Squaring the circle is a problem in geometry first proposed in Greek mathematics. It is the challenge of constructing a square with the area of a circle by using only a finite number of steps with a compass and straightedge. In 1882, the task was proven to be impossible, as a consequence of the Lindemann–Weierstrass theorem. Despite the proof that it is impossible, attempts to square the circle have been common in pseudomathematics (i.e., the work of mathematical cranks).* ([Source](https://en.wikipedia.org/wiki/Squaring_the_circle))
+
+
+<iframe width="315" height="315" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1333827193&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe> <iframe width="560" height="315" src="https://www.youtube.com/embed/ESwIv-R20jk?si=qkxYYOS_58cVUiaC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

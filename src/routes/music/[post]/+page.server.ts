@@ -5,7 +5,7 @@ import { marked } from 'marked';
 export const load = async ({ params }) => {
   const { post } = params;
     // The path to your markdown files might be different. Adjust accordingly.
-    const filePath = path.join('./static', `${post}.md`);
+    const filePath = path.join('./static/music', `${post}.md`);
     console.log(filePath);
 
     if (fs.existsSync(filePath)) {

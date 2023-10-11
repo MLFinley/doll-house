@@ -7,17 +7,17 @@
     let files = [];
     
     onMount(async () => {
-      const modules = import.meta.glob('/static/*.md');
+      const modules = import.meta.glob('/static/music/*.md');
 
   
       files = Object.keys(modules).map((path) => {
-        return path.replace('/static/', '').replace('.md', '');
+        return path.replace('/static/music/', '').replace('.md', '');
       });
     });
   </script>
   
 {#each files as file (file)}
-    <a href="/blog/{file}">
+    <a href="/music/{file}">
       {file}
     </a>
     <br>
