@@ -1,4 +1,4 @@
-<nav style = "background-color: #f1f1f1; padding: 1rem; display: flex; justify-content: space-around; align-items: center; align: center;">
+<nav style = "background-color: #f1f1f1; padding: 1rem; display: flex; justify-content: space-around; align-items: center; align: center; font-size: 0.6em;">
     <a href="/" style="text-decoration: none; color: black; font-weight: bold; text-shadow: 0;">Home</a>
     <!-- <a href="/blog" style="text-decoration: none; color: black; font-weight: bold; text-shadow: 0;">Blog</a> -->
     <a href="/music" style="text-decoration: none; color: black; font-weight: bold; text-shadow: 0;">Music</a>

@@ -4,7 +4,9 @@
 
 <!-- render html -->
 
-<h1>{data.title}</h1>
+<h1 style="text-align: center; font-size: 1.5em;">
+    {data.title}
+</h1>
 
 <div class="post">
     {@html data.html}
